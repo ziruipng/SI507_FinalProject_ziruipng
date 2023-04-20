@@ -13,3 +13,6 @@ Run the code in the following order:
 5. Interactive_Tree.py: Store the JSON data in a tree structure and make it into an interactive page. The interactive interface is realized with streamlit package.
 
 Run "streamlit run Interactive_App.py" in the termina, then go to http://localhost:8501/ on a browser for the interactive website.
+
+## Required Python Packages: 
+   requests, json, zipfile, io, geopandas, csv, json, pandas, streamlit, seaborn, matplotlib.pyplot
